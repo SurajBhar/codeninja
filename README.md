@@ -5,7 +5,7 @@ Codeninja is a local code assistant powered by a custom model named (`codeninja`
 
 Below is a preview of the Codeninja interface in action:
 
-![Codeninja Demo](images/demo.png)
+![Codeninja Demo](demo.png)
 
 ## Features
 - Simple interface for coding queries.
