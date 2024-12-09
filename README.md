@@ -1,6 +1,12 @@
 # Codeninja: Code Assistant
 Codeninja is a local code assistant powered by a custom model named (`codeninja`) hosted using `ollama` and interfaced with a Gradio web application. It enables you to interact with a locally running AI model for coding assistance.
 
+## Demo
+
+Below is a preview of the Codeninja interface in action:
+
+![Codeninja Demo](images/demo.png)
+
 ## Features
 - Simple interface for coding queries.
 - Powered by `codellama` under the hood, named as a custom model (`codeninja`), created and hosted locally.
@@ -64,6 +70,7 @@ codeninja/
 ├── modelfile            # Model configuration file
 ├── requirements.txt     # Dependencies
 └── README.md            # Project documentation
+└── demo.png             # Project demonstration
 
 ```
 
